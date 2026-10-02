@@ -1,0 +1,37 @@
+
+
+# Local state and generated files
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+dist/
+.build/
+.swiftpm/
+.gradle/
+.gradle-user/
+build/
+bin/
+.claude/
+.codex/
+.codex-artifacts/
+.local-backup/
+graphify-out/
+*.sqlite3
+*.sqlite3-*
+*.log
+*.tmp
+
+# Course materials and supplied teaching templates stay local.
+/*.ipynb
+/2)*.pdf
