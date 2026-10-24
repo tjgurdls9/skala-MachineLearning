@@ -35,3 +35,11 @@ graphify-out/
 # Course materials and supplied teaching templates stay local.
 /*.ipynb
 /2)*.pdf
+
+# SKALA 수업·발표 자료: 로컬에만 둔다
+/Clustering_실습_보고서.docx
+/Clustering_실습_보고서.pdf
+/Clustering_실습_보고서_k3.docx
+/KNN_실습_보고서.docx
+/TreeEnsemble_XGBoost_실습1_보고서.docx
+/광주_1반_서혁인_실습3.pdf
